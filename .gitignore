@@ -1,0 +1,17 @@
+./Release
+./x64
+malsrc.vcxproj
+malsrc.vcxproj.filters
+malsrc.vcxproj.user
+.\.vs
+.vs
+.\Release
+Release
+.\x64
+x64
+.\malsrc.vcxproj
+malsrc.vcxproj
+.\malsrc.vcxproj.filters
+malsrc.vcxproj.filters
+.\malsrc.vcxproj.user
+malsrc.vcxproj.user
